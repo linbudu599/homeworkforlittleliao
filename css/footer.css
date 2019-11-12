@@ -1,0 +1,14 @@
+#footer {
+  position: absolute;
+  bottom: -85%;
+  font-size: 22px;
+  left: 5%;
+  width: 90%;
+  background-color: bisque;
+  height: 35px;
+  border-radius: 7px;
+  line-height: 35px;
+  padding-top: 7px;
+  text-align: center;
+  border-top: 1px solid;
+}

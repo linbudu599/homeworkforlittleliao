@@ -1,0 +1,101 @@
+#body {
+  height: 160%;
+  background-color: antiquewhite;
+  padding-top: 1%;
+}
+#headline-news {
+  height: 66%;
+  background-color: bisque;
+  width: 35%;
+  margin-left: 1%;
+}
+.title {
+  height: 60px;
+  font-size: 42px;
+  line-height: 60px;
+  padding-left: 15px;
+  background-color: tan;
+}
+.content {
+  background-color: white;
+  margin: 8px;
+  height: 88%;
+}
+.article {
+  padding: 7px;
+}
+.article a {
+  font-size: 21px;
+}
+.article p {
+  margin-top: 5px;
+  font-size: 17px;
+  line-height: 20px;
+}
+#paint {
+  position: absolute;
+  top: 26%;
+  margin-top: -5px;
+  left: 38%;
+  width: 30%;
+  height: 64%;
+  background-color: bisque;
+}
+#paint .content {
+  padding-left: 6%;
+  height: 84%;
+}
+ul {
+  padding-top: 1%;
+}
+ul li {
+  font-size: 17px;
+  margin-bottom: 9px;
+  word-break: break-all;
+}
+
+#art {
+  position: absolute;
+  top: 26%;
+  margin-top: -5px;
+  left: 70%;
+  width: 28%;
+  background-color: bisque;
+}
+#art ul {
+  list-style: none;
+  border: 1px solid;
+  margin-top: 10px;
+}
+#art ul li {
+  display: block;
+  height: 25%;
+  padding-top: 5px;
+}
+#art ul li img {
+  width: 100px;
+  height: 100px;
+}
+#art ul li div {
+  word-break: break-all;
+  font-size: 23px;
+  margin-left: 5px;
+  position: absolute;
+  display: inline-block;
+  width: 70%;
+}
+#comment {
+  position: absolute;
+  left: 38%;
+  top: 92%;
+  background-color: bisque;
+  width: 30%;
+  height: 82%;
+}
+#show {
+  position: absolute;
+  left: 70%;
+  top: 102%;
+  background-color: bisque;
+  width: 28%;
+}

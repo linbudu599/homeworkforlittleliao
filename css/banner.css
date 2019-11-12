@@ -1,0 +1,49 @@
+#banner {
+  width: 100%;
+  height: 20%;
+  border: 1px solid lightgray;
+}
+.logo img {
+  width: 130px;
+  height: 130px;
+}
+.logo {
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-left: 7%;
+  width: 50%;
+  height: 100%;
+  padding-bottom: 0%;
+}
+.site {
+  font-size: 55px;
+  display: inline-block;
+  position: absolute;
+  top: 34px;
+  text-align: center;
+}
+.site_en {
+  font-size: 40px;
+  margin-top: -7px;
+  letter-spacing: 2px;
+}
+#menu a:nth-child(1) {
+  border-left: 2px solid;
+  margin-left: 14%;
+}
+#menu a {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  text-align: center;
+  display: inline-block;
+  width: 12%;
+  height: 37px;
+  line-height: 36px;
+  border-right: 2px solid;
+}
+#menu {
+  border: 1px solid;
+  height: 36px;
+  width: 100%;
+}
