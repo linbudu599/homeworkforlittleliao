@@ -1,0 +1,41 @@
+#article-container {
+  height: 76%;
+  width: 94%;
+  margin: 5px 2% 0;
+  padding: 15px 21px 0px;
+}
+#article-title {
+  font-size: 45px;
+  margin: 10px 4px 33px;
+}
+#info {
+  margin: -25px 25px 45px;
+}
+.source {
+  border-right: 1px solid;
+  padding-right: 16px;
+  margin: -25px 25px 45px;
+}
+.time {
+  margin-left: 10px;
+}
+#summary {
+  text-indent: 10px;
+  border: 0.1px solid lightgray;
+  width: 65%;
+  padding: 7px;
+  padding-left: 0px;
+  margin: 33px 0px 20px;
+}
+.bold {
+  font-weight: bold;
+}
+#summary p {
+  display: inline-block;
+}
+#article-content {
+  width: 80%;
+  font-size: 18px;
+  text-indent: 36px;
+  line-height: 36px;
+}
