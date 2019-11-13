@@ -18,8 +18,6 @@
 .site {
   font-size: 55px;
   display: inline-block;
-  position: absolute;
-  top: 34px;
   text-align: center;
 }
 .site_en {

@@ -4,10 +4,29 @@
   padding-top: 1%;
 }
 #headline-news {
-  height: 66%;
+  height: 84%;
   background-color: bisque;
   width: 35%;
   margin-left: 1%;
+}
+#headline-news .title a {
+  text-decoration: none;
+  color: black;
+}
+#headline-news .title a:hover {
+  border-bottom: 1px solid steelblue;
+  color: steelblue;
+}
+.content .article a:hover {
+  border-bottom: 1px solid steelblue;
+}
+.content .article a {
+  text-decoration: none;
+  color: black;
+}
+#menu a:hover {
+  color: darkgoldenrod;
+  box-shadow: 1px 1px;
 }
 .title {
   height: 60px;
